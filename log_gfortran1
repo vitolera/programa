@@ -1,0 +1,31 @@
+MacBook-Pro-de-Victoriano:programa vitoleon$ gfortran kinds.f95
+
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+collect2: error: ld devolvió el estado de salida 1
+
+MacBook-Pro-de-Victoriano:programa vitoleon$ gfortran puntos.f95
+
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+collect2: error: ld devolvió el estado de salida 1
+
+MacBook-Pro-de-Victoriano:programa vitoleon$ gfortran algebras.f95
+
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+collect2: error: ld devolvió el estado de salida 1
+
+MacBook-Pro-de-Victoriano:programa vitoleon$ gfortran funcionesgenerales.f95
+
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+collect2: error: ld devolvió el estado de salida 1
